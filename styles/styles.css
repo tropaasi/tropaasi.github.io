@@ -1,0 +1,40 @@
+body {
+	font-family: times;
+    font-size: 15.5px;
+    /*font-family: arial;
+    font-size: 19.5px;
+    line-height: 1,15;*/
+}
+
+summary {
+	cursor: pointer;
+}
+div.wrapper {
+	position: fixed;
+		margin: 5px;
+
+    
+}
+img{
+max-height: 100vh;
+	display: block;
+
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	/*color: #ede0ca;*/
+	cursor: help;
+	color: grey;
+}
+
+div.images {
+	margin: auto;
+	width: 60%;
+
+
+}
