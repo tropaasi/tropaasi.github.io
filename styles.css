@@ -1,0 +1,37 @@
+body {
+	font-family: times;
+    font-size: 15.5px;
+}
+
+summary {
+	cursor: pointer;
+}
+div.wrapper {
+	position: fixed;
+		margin: 5px;
+
+    
+}
+img{
+max-height: 100vh;
+	display: block;
+
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	/*color: #ede0ca;*/
+	cursor: help;
+	color: grey;
+}
+
+div.images {
+	margin: auto;
+	width: 60%;
+
+
+}
