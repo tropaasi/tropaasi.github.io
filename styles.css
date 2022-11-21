@@ -10,8 +10,10 @@ summary {
 }
 div.wrapper {
 	position: fixed;
-		margin: 5px;
-		margin-right: 15px;    
+		margin: 20px;
+		margin-right: 15px;
+
+    
 }
 img{
 max-height: 100vh;
@@ -28,4 +30,11 @@ a:hover {
 	/*color: #ede0ca;*/
 	cursor: help;
 	color: grey;
+}
+
+div.images {
+	margin: auto;
+	width: 60%;
+
+
 }
