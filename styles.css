@@ -16,15 +16,11 @@ max-height: 100vh;
 
 }
 
-a {
-	text-decoration: none;
-	color:black;
-}
+
 
 a:hover {
 	/*color: #ede0ca;*/
 	cursor: help;
-	color: grey;
 }
 
 div.images {
