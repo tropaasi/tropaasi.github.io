@@ -1,7 +1,7 @@
 body {
 	font-family: helvetica;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 17px;
     letter-spacing: 0.3px;
     word-spacing: 0.5px;
     
@@ -30,7 +30,7 @@ a {
 
 a:hover {
 	cursor: help;
-	color: brown;
+	color: purple;
 }
 
 div.images {
@@ -39,3 +39,4 @@ div.images {
 
 
 }
+
