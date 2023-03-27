@@ -26,12 +26,12 @@ max-height: 100vh;
 
 a {
 	text-decoration: none;
-	color:purple;
+	color:grey;
 }
 
 a:hover {
 	cursor: help;
-	color: grey;
+	color: purple;
 }
 
 div.images {
