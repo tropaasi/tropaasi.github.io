@@ -3,6 +3,7 @@ body {
     font-size: 15px;
     font-weight: regular;
     line-height: 19px;
+	color:#737373;
 
 
     
@@ -17,9 +18,7 @@ div.wrapper {
 		margin-right: 15px;
     
 }
-di.new{
-	color:orange;
-}
+
 
 img{
 max-height: 100vh;
