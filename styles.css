@@ -33,7 +33,7 @@ a {
 
 a:hover {
 	cursor: help;
-	color: blue;
+	opacity: 1;
 }
 
 div.images {
